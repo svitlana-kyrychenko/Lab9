@@ -1,6 +1,8 @@
 # Lab9
 Running Spark
 
+Put file with dataset in folder data
+
 Order of running 
 
 > run-cluster.sh
