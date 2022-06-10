@@ -17,6 +17,10 @@ Creating an installation
 
 ![image](https://user-images.githubusercontent.com/102665740/173160884-15a68429-b629-4cd2-97da-947e7e901667.png)
 
-result of running
+Result of running
 
-![image](https://user-images.githubusercontent.com/102665740/173160943-f7f57635-0e37-43c5-8c00-f2ab1c4b13e3.png)
+![image](https://user-images.githubusercontent.com/102665740/173162785-b6dc4f32-40eb-4286-8eee-edbeb118f483.png)
+
+To shutdown docker-compose
+
+> shutdown-cluster.sh
